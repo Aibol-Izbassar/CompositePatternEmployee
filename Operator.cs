@@ -6,10 +6,7 @@ namespace Employee
 {
     class Operator:Employee
     {
-        public Operator()
-        {
-
-        }
+        
 
         public override void AddSubordinate(Employee employee)
         {
